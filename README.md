@@ -262,7 +262,7 @@ As per the above `HomeUseCase`, we have created the `updateCounter` function to 
 
 ## Tools:
 
-Use the [clean-framework-feature-generator](https://marketplace.visualstudio.com/items?itemName=regnerhc.clean-framework-feature-generator) Visual Studio Code plugin. It is a powerful tool designed to streamline the process of generating features using the clean architecture pattern.
+Use the [clean-framework-feature-generator](https://marketplace.visualstudio.com/items?itemName=SameerKumar.clean-framework-feature-generator) Visual Studio Code plugin. It is a powerful tool designed to streamline the process of generating features using the clean architecture pattern.
 
 ### Steps to generate feature using plugin:
 
